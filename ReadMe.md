@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on web development.<br>🫱🏻‍🫲🏻 I'm looking for help with Ai and machine learning. <br>🌱 I'm currently learning Ai.
+💻 I'm currently working on web development.<br>😃 I'm looking for help with Ai and machine learning. <br>🌱 I'm currently learning Ai.
 
 
 ## 🌐 Socials:
